@@ -5,8 +5,8 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
+      <div className="App changes-test">
+        <header className="App-header test-class">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Mladen CI/CD Setup
